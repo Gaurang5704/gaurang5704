@@ -75,13 +75,13 @@
 
 <h2>GitHub Stats:</h2>
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyDalvi06&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
-    <p><img src="https://github-profile-trophy.vercel.app/?username=ChaitanyDalvi06&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyDalvi06&theme=aura&show_icons=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyDalvi06&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyDalvi06&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaitanyDalvi06&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyDalvi06&theme=aura&utcOffset=5.3" />
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang5704&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=gaurang5704&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurang5704&theme=aura&show_icons=true" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurang5704&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurang5704&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurang5704&theme=aura" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurang5704&theme=aura&utcOffset=5.3" />
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@
 <div align="center">
     <h2>My Contributions</h2>
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ChaitanyDalvi06/ChaitanyDalvi06/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gaurang5704/gaurang5704/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
 
