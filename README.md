@@ -14,7 +14,7 @@
 <h3>
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student 👨‍🎓 </font></p>
-    <img src="https://media3.giphy.com/media/vi9q6kkhLiJVx3L8TO/giphy.gif?cid=ecf05e47u09py71z0l41wyyulkbtohrcaipuzd1xkhh9w67j&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="right" height="400" width="400"/>
+    <img src="https://github.com/Gaurang5704/gaurang5704/blob/main/giphy.gif" align="right" height="400" width="400"/>
     <p><font color="blue">🌍 I reside in Mumbai, India 🇮🇳 </font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">💻 Currently learning Python</font></p>
