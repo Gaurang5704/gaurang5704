@@ -37,7 +37,7 @@
     <a href="https://x.com/ChaitanyaDalvi_?t=jkBIjCdZjXZfGIk_kmNzjA&s=09" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
     </a>
-    <a href="https://www.instagram.com/chaitanya__dalvi_?igsh=bjhyazl5cWhhMXI=" target="_blank">
+    <a href="https://www.instagram.com/gaurang5704/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
     </a>
  <p>   
@@ -102,12 +102,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-</body>
-<div align="center">
-<img src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/download.jpeg" height= "39%" width= "39%">
-<img align="right" src="https://github.com/ChaitanyDalvi06/ChaitanyDalvi06/blob/main/gif2.gif" height= "50%" width= "50%">
 
-<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
