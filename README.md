@@ -13,12 +13,13 @@
 
 <h3>
 <div align="left">
-    <p><font color="blue">Enthusiastic Computer Science Student 👨‍🎓 </font></p>
+    <p><font color="blue">👨‍🎓 Enthusiastic Computer Science Engineering Student  </font></p>
     <img src="https://github.com/Gaurang5704/gaurang5704/blob/main/giphy.gif" align="right" height="400" width="400"/>
     <p><font color="blue">🌍 I reside in Mumbai, India 🇮🇳 </font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">💻 Currently learning Python</font></p>
     <p><font color="blue">🧑‍💻 Passionate about Cybersecurity and Entrepreneurship </font></p>
+    <p><font color="blue">👨🏻‍💻 coding enthusiast exploring the world of programming </font></p>
 </div>
 </h3>
 <div align="center">
@@ -91,7 +92,7 @@
 <div align="center">
     <h2>My Contributions</h2>
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gaurang5704/gaurang5704/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
 
