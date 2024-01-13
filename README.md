@@ -1,4 +1,4 @@
-![logo]()
+<img src="https://github.com/Gaurang5704/gaurang5704/blob/main/to%20my%20profile%20-.gif" align="centre" height="500" width="1000"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gaurang5704.gaurang5704" />
 
