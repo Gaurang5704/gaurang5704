@@ -21,7 +21,7 @@
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">💻 Currently learning Python</font></p>
     <p><font color="blue">🧑‍💻 Passionate about Cybersecurity and Entrepreneurship </font></p>
-    <p><font color="blue">👨🏻‍💻 coding enthusiast exploring the world of programming </font></p>
+    <p><font color="blue">👨🏻‍💻 Coding Enthusiast exploring the world of Programming </font></p>
 </div>
 </h3>
 <div align="center">
