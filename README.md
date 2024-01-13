@@ -1,4 +1,4 @@
-<img src="https://github.com/Gaurang5704/gaurang5704/blob/main/to%20my%20profile%20-.gif" align="centre" height="500" width="1000"/>
+<img src="https://github.com/Gaurang5704/gaurang5704/blob/main/to%20my%20profile%20-.gif" align="centre" height="300" width="900"/>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gaurang5704.gaurang5704" />
 
@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile;+I'm+GAURANG+JADHAV!" />
 </h1>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
 </div>
 
 <h3 align="left">
